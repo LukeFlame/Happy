@@ -1,0 +1,16 @@
+{
+    "folders": [
+        {
+            "path": "."
+        },
+        {
+            "path": "..\\CalcBot"
+        },
+        {
+            "path": "..\\WelcomeBot"
+        }
+    ],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "Happy"
+    }
+}
