@@ -41,7 +41,6 @@ function addMarker({ id, name, lat, lng }) {
 
 const orphanagesSpan = document.querySelectorAll('.orphanages span');
 orphanagesSpan.forEach((orphanageElement => {
-    console.log(orphanageElement)
     const orphanage = {
         id: orphanageElement.dataset.id,
         name: orphanageElement.dataset.name,
