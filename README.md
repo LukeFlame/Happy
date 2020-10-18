@@ -4,25 +4,25 @@
 
 ---
 
-<h1 align="center">Next Level Week #3, projeto "Happy".</h1>
+<h1 align="center">Next Level Week #3, project "Happy".</h1>
 
 ---
 
-<h2 align="center">Sobre 📖</h2>
+<h2 align="center">About 📖</h2>
    
    <p align="center">
-      O projeto Happy, desenvolvido na semana Next Level Week, da <a href="https://rocketseat.com.br/">Rocketseat</a>, durante o dia 12 ao 18 do mês de Outubro.<br>
-      O projeto tem como inspiração as Instituições de Caridade, que realizam um trabalho muito importante no mundo. E tem como intenção incentivar a visitação de crianças em orfanatos, que é uma coisa linda ver a felicidade de crianças.<br>
-      E o desafio da semana, era propor não só programar, mas também nos trazer uma pequena reflexão. 😀<br>
-      Vamos levar felicidade para o mundo! 😊<br>
-      Este evento teve muito conteúdo exclusivo e gratuito, foi simplesmente sensacional! 😄
+      The Happy project, developed during the Next Level Week, from <a href="https://rocketseat.com.br/">Rocketseat</a>, from the 12th to the 18th of October.<br>
+      The project is inspired by Charities, which carry out very important work in the world. And it is intended to encourage children to visit orphanages, which is a beautiful thing to see the happiness of children.<br>
+      And the challenge for the week was to propose not only programming, but also a little reflection. 😀<br>
+      Let's bring happiness to the world! 😊 <br>
+      This event had a lot of exclusive, free content, it was simply sensational and profitable! 😄
    </p>
 
-- ✅ "Acelerando sua evolução" 💪
-- ✅ "Olhando as oportunidades" 👀
-- ✅ "A escolha da Stack" 📌
-- ✅ "Até dois anos em 2 meses" 🔥
-- ✅ "A milha extra" 🚀
+   - ✅ "Accelerating Your Evolution" 💪
+   - ✅ "Looking at opportunities" 👀
+   - ✅ "The Stack's Choice" 📌
+   - ✅ "Up to two years in 2 months" 🔥
+   - ✅ "The extra mile" 🚀
 
 ---
 
@@ -36,29 +36,29 @@
 <h2 align="center">Layout 🎨</h2>
 
    <p align="center">
-      O Layout foi desenvolvido por <a href="https://instagram.com/tiagoluchtenberg">Tiago Luchtenberg</a>, e você pode acessá-lo no Figma:
-
+      The Layout was developed by <a href="https://instagram.com/tiagoluchtenberg">Tiago Luchtenberg</a>, and you can access it on Figma:
+      
    - <a href="https://www.figma.com/file/XYb2tha1gU5M8vTwTUmjNx/Happy-Web-(Copy)?node-id=0%3A1">Desktop</a> 🖥️
    - <a href="https://www.figma.com/file/X27FfVxAgy9f5IFa7ONlph/Happy-Mobile?node-id=0%3A1">Mobile</a> 📱
    </p>
 
 ---
 
-<h2 align="center">Funcionalidades 🛠️</h2>
+<h2 align="center">Functionalities 🛠️</h2>
 
-- Levar felicidade para o mundo! 🥳
-- Incentivar as pessoas a visitar orfanatos! 
-- Você pode criar e cadastrar orfanatos;
-- Pode marcar os dias para a visitação de orfanatos;
-  - Acessando horários e dias de funcionamento 📅,
-  - Agendar visitas,
-  - Entrar em contato via Whatsapp 📞,
-  - Ver as rotas via Google Maps 🗺
-- Navegar em diferentes guias e páginas;
+- Bring happiness to the world! 🥳
+- Encourage people to visit orphanages!
+- You can create and register orphanages;
+- You can mark the days for visiting orphanages;
+   - Accessing opening hours and days 📅,
+   - Schedule visits,
+   - Get in touch via Whatsapp 📞,
+   - View directions via Google Maps 🗺
+- Browse different tabs and pages;
 
 ---
 
-<h2 align="center">Tecnologias 🚀</h2>
+<h2 align="center">Technologies 🚀</h2>
 
 - [Node.js](https://nodejs.org/en/)
 - [Express](https://expressjs.com/pt-br/)
@@ -70,58 +70,61 @@
 
 ---
 
-<h2 align="center">Arquivos no Notion 📋</h2>
+<h2 align="center">Notion Files 📋</h2>
 
 - [NLW3 #03](https://www.notion.so/NLW-Discovery-03-628a2c1b9ac744e28fad80046b699aab) 🚀
 - [Front-end](https://www.notion.so/Front-end-010548f316d04d65a0d8b72865874ed1) ☕
 - [Back-end](https://www.notion.so/Back-end-ff655163e56b4927ae7a7a4e08049e64) 👨‍🍳
-- [Banco de Dados](https://www.notion.so/Banco-de-Dados-ba70111f89924bda94bb1016f12df8c8) 📦
+- [Database](https://www.notion.so/Banco-de-Dados-ba70111f89924bda94bb1016f12df8c8) 📦
 
 ---
 
-<h2 align="center">Desafios e aprendizados ao longo do caminho 🤯</h2>
+<h2 align="center">Challenges and Learnings along the way 🤯</h2>
 
    <p>
-      A NLW me mostrou como entrar de cabeça em um projeto, me mostrou a possibilidade de aprender algo facilmente simplesmente mantendo o foco.<br> 
-      Consegui realizar a trilha Discovery com sucesso porém não me contentei, já tenho algumas ideias na cabeça para por em prática com tudo que aprendi neste evento.<br>
-      Tenho uma imensa gratidão a Rocketseat por disponibilizar tanto conteúdo gratuitamente, na próxima seguirei pela trilha mais avançada, com certeza!<br>
-      Foi uma experiência incrível, e que quero viver mais e mais vezes! 🚀
+      NLW showed me how to get into a project head on, showed me the possibility to learn something easily just by staying focused.<br> 
+      I managed to do the Discovery trail successfully but I was not satisfied, I already have some ideas in mind to put into practice with everything I learned in this event.<br>
+      I am immensely grateful to Rocketseat for making so much content available for free, next time I will follow the most advanced track, for sure!<br>
+      It was an incredible experience and I want to live it more and more often! 🚀
    </p>
 
 ---
 
-<h2 align="center">Como usar 🤔</h2>
+<h2 align="center">How to Use 🤔</h2>
 
-```
-- Clone o repositório:
-  $ git clone link Happy
+   ```
+   - Clone this repository:
+   $ git clone https://github.com/felipecastrosales/Happy Happy
 
-- Entre no diretório:
-$ cd Happy
+   - Enter in directory:
+   $ cd Happy
 
-- Para instalar as dependências:
-$ npm install
+   - For install dependencies:
+   $ npm install
 
-- Execute a aplicação:
-$ npm start
+   - Execute application:
+   $ npm start
 
-- Abra seu navegador em:
-http://localhost:5500/
-```
+   - Open your browser in:
+   http://localhost:5500/
+   ```
 
 ---
 
-<h2 align="center">Licença 📝</h2>
+<h2 align="center">License 📝</h2>
 
 <p align="center">
-   Este repositório está sob licença MIT. Você pode ver o arquivo <a href="https://github.com/felipecastrosales/Happy/blob/master/LICENSE"> LICENSE </a> para mais detalhes. 😉
+   This repository is under MIT license. You can see the <a href="https://github.com/felipecastrosales/Happy/blob/master/LICENSE">LICENSE</a> file for more details. 😉
 </p>
 
 ---
 
-> Este projeto foi desenvolvido por **[@LukeFl_](https://github.com/LukeFlame)**, com o instrutor **[@MaykBrito](https://github.com/maykbrito)**, durante a **[Next Level Week](https://rocketseat.com.br/)** da **[Rocketseat](https://www.linkedin.com/school/rocketseat/about/)** 💜. <br>
-> Se isso te ajudou, dê uma ⭐, isso vai me ajudar também! 😉 <br>
-> Modelo do README.md feito por **[@Felipe Sales](https://github.com/felipecastrosales/Happy)**, muito obrigado!
+  > with ❤️ by **[@Felipe Sales](https://www.linkedin.com/in/felipecastrosales/)**, 
+   If it helped you, give it ⭐, it will help me too 😉 
+
+> This project was developed by **[@LukeFl_](https://github.com/LukeFlame)**, with the instructor **[@MaykBrito](https://linkedin.com/in/maykbrito)**, during the **[Next Level Week](https://rocketseat.com.br/)** of **[Rocketseat](https://www.linkedin.com/school/rocketseat/about/)** 💜. <br> 
+> If it helped you, give it ⭐, it will help me too 😉 <br>
+> README.md template made by **[@Felipe Sales](https://github.com/felipecastrosales/Happy)**, thank you!
 
 ---
 
