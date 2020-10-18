@@ -102,3 +102,134 @@ a.create-orphanage:hover {
     font: 700 2rem/1 'Nunito', sans-serif;
     z-index: 5;
 }
+
+@media (max-height: 520px) {
+
+    aside {
+        padding: clamp(3rem, 5vw, 8rem);
+        padding-top: clamp(1.1rem, 4.2vw, 6rem);
+    
+        display: flex;
+    
+        justify-content: space-between;
+    }
+
+    aside header {
+        display: flex;
+        flex-direction: column;
+    }
+
+    aside h2 {
+        margin-top: 1.5rem;
+        font-weight: 800;
+        font: 800 clamp(.8rem, 4vw, 1.8rem)/1.1 'Nunito', sans-serif;
+
+    }
+    
+    aside p {
+        font-size: 0.0001px;
+    }
+    
+    aside footer {
+        margin-top: .8rem;
+        margin-top: 1.3rem;
+    }
+
+    aside footer p {
+        font-size: initial;
+        margin-top: 7px;
+    }
+}
+
+@media (max-width: 600px) {
+    #page-orphanages {
+        flex-direction: column;
+    }
+
+    aside {
+        width: 100%;
+        height: clamp(105px, 20%, 125px);
+        background: linear-gradient(329.54deg, #15B6D6 0%, #15d6d6 100%);
+        padding: clamp(3rem, 5vw, 8rem);
+        padding-top: clamp(1.1rem, 4.2vw, 6rem);
+    
+        display: flex;
+        flex-direction: row;
+    
+        justify-content: space-between;
+    }
+
+    aside header {
+        display: flex;
+        flex-direction: row;
+        width: 70%
+    }
+
+    aside h2 {
+        margin-top: 1.3rem;
+        margin-left: 2rem;
+        font-weight: 800;
+        font: 800 clamp(.8rem, 4vw, 1.8rem)/1.1 'Nunito', sans-serif;
+
+    }
+    
+    aside p {
+        font-size: 0.0001px;
+    }
+    
+    aside footer {
+        margin-top: .8rem;
+        margin-top: 1.3rem;
+    }
+
+    aside footer p {
+        font-size: initial;
+        margin-top: 7px;
+    }
+}
+
+@media (max-width: 360px) {
+    #page-orphanages {
+        flex-direction: column;
+    }
+
+    aside {
+        width: 100%;
+        height: clamp(105px, 20%, 160px);
+        background: linear-gradient(329.54deg, #15B6D6 0%, #15d6d6 100%);
+        padding: clamp(2rem, 5vw, 8rem) 4%;
+    
+        display: flex;
+        flex-direction: row;
+    
+        justify-content: space-between;
+    }
+
+    aside header {
+        display: flex;
+        flex-direction: row;
+        width: 60%
+    }
+
+    aside h2 {
+        margin-top: 1.3rem;
+        margin-left: 2rem;
+        font-weight: 800;
+        font: 800 clamp(.8rem, 4vw, 1.8rem)/1.1 'Nunito', sans-serif;
+
+    }
+    
+    aside p {
+        font-size: 0.0001px;
+    }
+    
+    aside footer {
+        margin-top: .8rem;
+        margin-top: 1.3rem;
+    }
+
+    aside footer p {
+        font-size: initial;
+        margin-top: 7px;
+    }
+}
