@@ -15,7 +15,6 @@ L.tileLayer(
 ).addTo(mymap);
 
 // Create icon
-
 const icon = L.icon({
   iconUrl: "/images/map-marker.svg",
   iconSize: [58, 68],
@@ -41,7 +40,7 @@ mymap.on("click", (event) => {
 
 // add photo field
 function addPhotoField() {
-  // take photo container #images
+  // take photo in container #images
   const container = document.querySelector("#images");
 
   // take the .new-image
@@ -66,6 +65,7 @@ function addPhotoField() {
   container.appendChild(newFieldContainer);
 }
 
+// function that deletes the field when clicking on the x
 function deleteField(event) {
   const span = event.currentTarget;
   const fieldsContainer = document.querySelectorAll(".new-upload");
@@ -98,9 +98,8 @@ function toggleSelect(event) {
   input.value = button.dataset.value;
 }
 
+// validate that lat and lng are filled
 function validate(event) {
-  //validar se lat e lng estão preenchidas
-
   const valueLatLng = false;
 
   if (valueLatLng) event.preventDefault();

@@ -1,7 +1,9 @@
-const Database = require('sqlite-async');
+// import sqlite-async library
+const Database = require("sqlite-async");
 
+// function that creates the orphanage table in database
 function execute(db) {
-    return db.exec(`
+  return db.exec(`
         CREATE TABLE IF NOT EXISTS orphanages (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
             lat TEXT,
@@ -14,7 +16,8 @@ function execute(db) {
             opening_hours TEXT,
             open_on_weekends TEXT
         );
-    `)
+    `);
 }
 
-module.exports = Database.open(__dirname + '/database.sqlite').then(execute);
+// export db
+module.exports = Database.open(__dirname + "/database.sqlite").then(execute);

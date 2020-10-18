@@ -105,7 +105,7 @@ $ npm install
 - Execute a aplicação:
 $ npm start
 
-- Open your browser in:
+- Abra seu navegador em:
 http://localhost:5500/
 ```
 

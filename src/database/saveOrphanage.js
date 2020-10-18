@@ -1,3 +1,4 @@
+// function that takes data from the form and saves it in the database
 function saveOrphanage(db, orphanage) {
   return db.run(`
     INSERT INTO orphanages (
@@ -24,4 +25,5 @@ function saveOrphanage(db, orphanage) {
 `);
 }
 
+// export the function
 module.exports = saveOrphanage;

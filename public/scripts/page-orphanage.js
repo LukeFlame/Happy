@@ -1,3 +1,4 @@
+// map options
 const options = {
   dragging: false,
   touchZoom: false,
@@ -6,14 +7,14 @@ const options = {
   zoomControl: false,
 };
 
-// Get values from html
+// get values from html
 const lat = document.querySelector("[data-lat]").dataset.lat;
 const lng = document.querySelector("[data-lng]").dataset.lng;
 
-// Create map
+// create map
 const mymap = L.map("mapid", options).setView([lat, lng], 16);
 
-// Create and add tileLayer
+// create and add tileLayer
 L.tileLayer(
   "https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}",
   {
@@ -26,8 +27,7 @@ L.tileLayer(
   }
 ).addTo(mymap);
 
-// Create icon
-
+// create icon
 const icon = L.icon({
   iconUrl: "/images/map-marker.svg",
   iconSize: [58, 68],
@@ -35,11 +35,10 @@ const icon = L.icon({
   popupAnchor: [170, 2],
 });
 
-// Create and add marker
+// create and add marker
 L.marker([lat, lng], { icon }).addTo(mymap);
 
 // image gallery
-
 function selectImage(event) {
   const button = event.currentTarget;
 
