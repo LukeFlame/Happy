@@ -55,6 +55,7 @@
   - Entrar em contato via Whatsapp 📞,
   - Ver as rotas via Google Maps 🗺
 - Navegar em diferentes guias e páginas;
+- (Novo!) Responsividade em Desktop e Mobile.
 
 ---
 

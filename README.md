@@ -57,6 +57,7 @@
    - Get in touch via Whatsapp 📞,
    - View directions via Google Maps 🗺
 - Browse different tabs and pages;
+- (New!) Responsive layout in Desktop and Mobile.
 
 ---
 
