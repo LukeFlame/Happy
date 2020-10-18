@@ -55,7 +55,6 @@ module.exports = {
   // collect data from form
   async saveOrphanage(req, res) {
     const fields = req.body;
-    console.log(fields);
 
     // validate that all fields are filled
     if (Object.values(fields).includes("")) {

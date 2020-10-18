@@ -1,5 +1,5 @@
 // Create map
-const mymap = L.map("mapid").setView([-23.5975873, -46.6297641], 16);
+const mymap = L.map("mapid").setView([-23.5721552,-46.7210708], 11.75);
 
 // Create and add tileLayer
 L.tileLayer(
@@ -100,7 +100,10 @@ function toggleSelect(event) {
 
 // validate that lat and lng are filled
 function validate(event) {
-  const valueLatLng = false;
-
-  if (valueLatLng) event.preventDefault();
+  console.log();
+  if (document.querySelector("[name=lat]").value != "") {
+    return;
+  }
+  event.preventDefault()
+  alert('Preencha todos os campos, talvez você esqueceu de pôr a localização no mapa :)')
 }
