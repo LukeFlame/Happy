@@ -121,9 +121,6 @@
 
 ---
 
-  > with ❤️ by **[@Felipe Sales](https://www.linkedin.com/in/felipecastrosales/)**, 
-   If it helped you, give it ⭐, it will help me too 😉 
-
 > This project was developed by **[@LukeFl_](https://github.com/LukeFlame)**, with the instructor **[@MaykBrito](https://linkedin.com/in/maykbrito)**, during the **[Next Level Week](https://rocketseat.com.br/)** of **[Rocketseat](https://www.linkedin.com/school/rocketseat/about/)** 💜. <br> 
 > If it helped you, give it ⭐, it will help me too 😉 <br>
 > README.md template made by **[@Felipe Sales](https://github.com/felipecastrosales/Happy)**, thank you!
