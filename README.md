@@ -1,4 +1,4 @@
-<p>*README em português disponível*</p>
+*README em português disponível*
 
 <p align="center">
       <img src="https://user-images.githubusercontent.com/59374587/95769432-3c361a00-0c8e-11eb-8ce7-9ee9a66f32af.png" width="10%" alt="Happy Logo"/>
